@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "supported_formats": [
+      15,
+      999
+    ],
+    "description": "Night Zombies GUARANTEED safe core: special zombies/spiders/water/beacon test"
+  }
+}
